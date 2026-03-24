@@ -102,12 +102,16 @@ Built using **pure HTML, CSS, and JavaScript**, this app runs entirely in the br
 - Chart.js (Analytics)
 - Web Audio API (Sound effects)
 - LocalStorage (Data persistence)
+
 ---
+
 ### 🎨 UI/UX & Design
 - Glassmorphism Design System
 - Animated Aurora Gradient Backgrounds
 - Micro-interactions & Smooth Transitions
 - Dark / Light Theme Support
+
+---
 
 ### ⚙️ Architecture & Features
 - Single Page Application (SPA)
